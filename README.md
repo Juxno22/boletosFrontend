@@ -1,4 +1,4 @@
-# 🐂 Gran Jaripeo Diagsa – Frontend
+# Jaripeo Frontend
 
 Frontend en **Vue 3 (Composition-compatible Options API)** para el Gran Jaripeo del Aniversario 22 años de Diagsa Automotriz.
 
